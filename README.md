@@ -23,5 +23,9 @@ This is a Flask-based backend service that provides NLP functionality to the Rea
    ```
    python app.py
    ```
+5. Run the UI
+   ```
+   python file_analyzer_ui.py
+   ```
 
 The server will start at http://localhost:5000
